@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 //finds max difference between the highest and lowest temperature for each season
+//improvements will be done later
 class Season {
     public static void main(String[] args) {
         int array[] = {12, -3,0, -1, 4, 3, 45, 42 , 41 ,25, 24, 19};
